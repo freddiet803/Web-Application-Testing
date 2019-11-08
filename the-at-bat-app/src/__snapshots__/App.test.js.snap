@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render dashboard without crashing 1`] = `undefined`;
+
+exports[`render display without crashing 1`] = `
+<div>
+  <div>
+    <h1>
+      At Bat
+    </h1>
+    <div>
+      <h3>
+        Balls: 
+        0
+      </h3>
+    </div>
+    <div>
+      <h3>
+        Strikes: 
+        0
+      </h3>
+    </div>
+    <div>
+      <h3>
+        Fouls: 
+        0
+      </h3>
+    </div>
+    <div>
+      <h3>
+        Hits: 
+        0
+      </h3>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`render without crashing 1`] = `undefined`;
